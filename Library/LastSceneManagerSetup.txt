@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Slip.unity
+  isLoaded: 1
+  isActive: 1
